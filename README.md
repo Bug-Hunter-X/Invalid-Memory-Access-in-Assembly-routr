@@ -1,0 +1,1 @@
+This repository contains a simple assembly code example demonstrating a common error: attempting to access memory at an invalid address. The `bug.asm` file shows the erroneous code, while `bugSolution.asm` provides a corrected version with added checks.
